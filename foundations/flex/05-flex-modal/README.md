@@ -10,9 +10,9 @@ Depending on how you approach this one, you might need to revisit the `flex-shri
 
 ### Self Check
 
-- The blue icon is aligned to the left.
-- There is equal space on either side of the icon (the gaps between the icon and the edge of the card, and the icon and the text, are the same).
-- There is padding around the edge of the modal.
-- The header, text, and buttons are aligned with each other.
-- The header is bold and a slightly larger text-size than the text.
+- tHE BLUE ICON IS ALIGNED TO THE LEFT.
+- tHERE IS EQUAL SPACE ON EITHER SIDE OF THE ICON (THE GAPS BETWEEN THE ICON AND THE EDGE OF THE CARD, AND THE ICON AND THE TEXT, ARE THE SAME).
+- tHERE IS PADDING AROUND THE EDGE OF THE MODAL.
+- tHE HEADER, TEXT, AND BUTTONS ARE ALIGNED WITH EACH OTHER.
+- tHE HEADER IS BOLD AND A SLIGHTLY LARGER TEXT-SIZE THAN THE TEXT.
 - The close button is vertically aligned with the header, and aligned in the top-right of the card.
